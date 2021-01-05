@@ -1,4 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Mareks Blog"
 date: 2021-1-5
 ---
